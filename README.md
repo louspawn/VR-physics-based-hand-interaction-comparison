@@ -7,13 +7,13 @@ Physics-based hand interaction in VR has been extensively explored, but almost n
 
 ## Resources
 
-Paper link (TBD)
+📰 Paper link (TBD)
 
-Comparative study overview video (TBD)
+🎞️ [Comparative study overview video](https://youtu.be/CYSmvZRWVzk)
 
-Showcase video (TBD)
+🎞️ [Showcase video](https://youtu.be/NAQ02zyXUaE)
 
-Showcase APK (TBD)
+🥽 Showcase APK (TBD)
 
 ## HPTK+
 
