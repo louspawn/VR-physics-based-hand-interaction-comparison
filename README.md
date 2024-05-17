@@ -7,7 +7,7 @@ Physics-based hand interaction in VR has been extensively explored, but almost n
 
 ## Resources
 
-📰 Paper link (TBD)
+📰 [Paper link](https://ieeexplore.ieee.org/document/10494127)
 
 🎞️ [Comparative study overview video](https://youtu.be/CYSmvZRWVzk)
 
@@ -39,4 +39,17 @@ HPTK+ is short for HPTK+ArticulationBodies, meaning the existing [HPTK library](
 [1] [National and Kapodistrian University of Athens](https://en.uoa.gr/) [2] [PresenceXR](https://pxr.es/) [3] [ATHENA Research Center](https://www.athenarc.gr/en/home)
 
 ## Cite our work
-TBD. The details about citing our work will be added after our paper gets published.
+
+```
+@INPROCEEDINGS{10494127,
+  author={Lougiakis, Christos and González, Jorge Juan and Ganias, Giorgos and Katifori, Akrivi and Ioannis-Panagiotis and Roussou, Maria},
+  booktitle={2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR)}, 
+  title={Comparing Physics-based Hand Interaction in Virtual Reality: Custom Soft Body Simulation vs. Off-the-Shelf Integrated Solution}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={743-753},
+  keywords={Three-dimensional displays;Scalability;Virtual environments;User interfaces;Particle measurements;User experience;Software;Human-centered computing;Human computer interaction (HCI);Interaction techniques;Computing methodologies;Modeling and simulation;Simulation support systems;Simulation environments;Interaction paradigms;Virtual reality},
+  doi={10.1109/VR58804.2024.00094}
+}
+```
