@@ -19,7 +19,7 @@ Physics-based hand interaction in VR has been extensively explored, but almost n
 
 ![Showcase](https://github.com/louspawn/VR-physics-based-hand-interaction-comparison/assets/41284921/055ef58c-0fcc-4d77-aea3-f738bb601d78)
 
-HPTK+ is short for HPTK+ArticulationBodies, meaning the existing [HPTK library](https://github.com/jorgejgnz/HPTK) that has been created by Jorge, the second author of the paper, extended in functionality by the [Articulation Bodies](https://docs.unity3d.com/Manual/class-ArticulationBody.html) of NVIDIA PhysX that Christos, the first author of the paper, has been working on in parallel for his PhD project [Unity Physics Avatar](https://github.com/DI-UOA-RealityLab/Unity.Physics.Avatar). Christos and Jorge collaborated to combine the two projects and the end result has been integrated to HPTK. Currenlty it can be found to [HPTK's dev branch](https://github.com/jorgejgnz/HPTK/tree/dev), and when some bugs are fixed it will be merged to the master branch.
+HPTK+ is short for HPTK+ArticulationBodies, meaning the existing [HPTK library](https://github.com/jorgejgnz/HPTK) that has been created by Jorge, the second author of the paper, extended in functionality by the [Articulation Bodies](https://docs.unity3d.com/Manual/class-ArticulationBody.html) of NVIDIA PhysX that Christos, the first author of the paper, has been working on in parallel for his PhD project [Unity Physics Avatar](https://github.com/DI-UOA-RealityLab/Unity.Physics.Avatar). Christos and Jorge collaborated to combine the two projects and the end result has been integrated to the [HPTK Plus](https://github.com/louspawn/HPTK-Plus/tree/master) library.
 
 ## Authors
 
